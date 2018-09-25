@@ -1,3 +1,3 @@
 # wh-moni
 
-hello
+ping
