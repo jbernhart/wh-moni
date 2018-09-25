@@ -1,3 +1,4 @@
 # wh-moni
 
 ping
+pong
