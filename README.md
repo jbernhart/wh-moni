@@ -1,3 +1,3 @@
 # wh-moni
 
-change
+ping
