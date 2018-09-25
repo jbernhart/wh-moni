@@ -1,4 +1,3 @@
 # wh-moni
 
-ping
-pong
+hello
